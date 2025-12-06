@@ -18,7 +18,7 @@ export function Header() {
               <Calculator className="w-6 h-6 text-primary-foreground" />
             </div>
             <div className="hidden sm:block">
-              <span className="font-bold text-foreground">UzCustoms</span>
+              <span className="font-bold text-foreground">UzCICI</span>
               <span className="text-xs text-muted-foreground block -mt-1">Import Calculator</span>
             </div>
           </Link>

@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Uzbekistan Import Cost Calculator | Customs Duty & Tax Calculator",
+  title: "Uzbekistan Customs Import Cost Analyzer | Customs Duty & Tax Calculator",
   description:
     "Calculate the total cost of importing goods into Uzbekistan. Accurate customs duties, VAT, excise tax, and fees for individuals and commercial entities.",
   generator: "v0.app",
